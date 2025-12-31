@@ -5,4 +5,9 @@ Made repositories,made pull request,added headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Go to Repositories
+- [x] Go to Branches and do your task
+- [ ] Ask for review in pull request
+- [ ] Merge it to main
+
 
